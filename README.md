@@ -2,3 +2,6 @@
 
 List of all the Classifier:
 - Linear Regression
+- Logistic Regression
+- Decision Tree
+- Random Forest
