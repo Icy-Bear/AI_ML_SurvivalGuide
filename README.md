@@ -5,3 +5,4 @@ List of all the Classifier:
 - Logistic Regression
 - Decision Tree
 - Random Forest
+- Support Vector Classifier(SVM)
