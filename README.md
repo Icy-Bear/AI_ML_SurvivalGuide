@@ -28,7 +28,7 @@ This repository contains implementations of various machine learning classifiers
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/All_Classifier_from_Scratch.git
+    git clone https://github.com/Icy-Bear/All_Classifier_from_Scratch.git
     cd All_Classifier_from_Scratch
     ```
 
