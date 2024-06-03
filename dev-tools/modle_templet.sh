@@ -5,7 +5,9 @@ if [ "$1" == "" ]; then
 	exit 0
 fi
 
-mkdir 00_$1.md
-mkdir 01_$1_Sklearn.py
-mkdir 02_$1_FS.py
+mkdir $1
+cd $1
+touch 00_$1.md
+touch 01_$1_Sklearn.py
+touch 02_$1_FS.py
 
