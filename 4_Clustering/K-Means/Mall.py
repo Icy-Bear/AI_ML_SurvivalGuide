@@ -13,5 +13,8 @@ km.fit(data)
 
 labels = km.labels_
 
+df["Labels"] = labels
+
+print(df)
 print(labels)
 
