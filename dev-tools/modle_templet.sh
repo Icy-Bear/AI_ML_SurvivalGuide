@@ -7,7 +7,7 @@ fi
 
 mkdir $1
 cd $1
-touch 00_$1.md
-touch 01_$1_Sklearn.py
-touch 02_$1_FS.py
+touch 1_$1.md
+touch 2_$1_Sklearn.py
+touch 3_$1_FS.py
 
